@@ -24,3 +24,6 @@ Trata-se de um cartão com algumas informações sobre um perfil.
 
 ### Desktop:
 <img src="./src/imagens-readme/desktop.png" alt="imagem tamanho desktop">
+
+
+Para ver o projeto pronto, [clique aqui!]( https://jessica-os.github.io/Profile-card-component/)
