@@ -1,3 +1,17 @@
+@media (min-width: 1600px) {
+  .bg-top {
+    position: absolute;
+    left: -15%;
+    top: -60%;
+    z-index: -1;
+  }
+  .bg-bottom {
+    position: absolute;
+    z-index: -1;
+    right: -15%;
+    bottom: -75%;
+  }
+}
 @media (max-width: 800px) {
   .bg-top {
     position: absolute;
